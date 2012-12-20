@@ -9,8 +9,8 @@ Self-extract archive "rubyfull.exe" includes:
 - sqlite3 dll
 - sqlite3 ruby library
 
-This archive can bu used to run Pandora:
+This archive can be used to run Pandora:
 https://github.com/Novator/Pandora
 
 Warning: this is full functionality, but minimum size version.
-The archive does not include examples, additional dll, etc.
+The archive does not include examples, additional dlls, etc.
